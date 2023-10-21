@@ -9,7 +9,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript, TypeScript, Node, React y Express**
 
-- 💬 Pregúntame sobre **Java, Spring Boot**
+- 💬 Pregúntame sobre **Java, Spring Boot, JavaScript, TypeScript, Node, React y Express**
 
 - 📫 Cómo contactarme **lisandro.kruger@outlook.es**
 
