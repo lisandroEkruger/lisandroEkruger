@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lisandro-kruger" alt="lisandro-kruger" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en Un proyecto donde implemento 4 microservicios (productos, inventario, orden, notificaciones) aplicando Spring Cloud, Netflix Eureka, Kafka
+- 🔭 Actualmente estoy trabajando en Un proyecto donde implemento 4 microservicios (productos, inventario, orden, notificaciones) aplicando Spring Cloud, Eureka, Kafka
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript, TypeScript, Node, React y Express**
 
