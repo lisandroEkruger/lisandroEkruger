@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Lisandro Kruger</h1>
-<h3 align="center">FULL STACK JAVA</h3>
+<h1 align="center">¡Hola 👋, soy Lisandro Kruger!</h1>
+<h3 align="center">DESARROLLADOR FULL STACK JAVA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lisandro-kruger&label=Profile%20views&color=0e75b6&style=flat" alt="lisandro-kruger" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lisandro-kruger&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="lisandro-kruger" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lisandro-kruger" alt="lisandro-kruger" /></a> </p>
 
-- 🔭 I’m currently working on [Un proyecto donde implemento 4 microservicios (productos, inventario, orden, notificaciones) aplicando Spring Cloud, Netflix Eureka, Kafka](https://github.com/lisandro-kruger/microservices-eurekaserver-kafka.git)
+- 🔭 Actualmente estoy trabajando en Un proyecto donde implemento 4 microservicios (productos, inventario, orden, notificaciones) aplicando Spring Cloud, Netflix Eureka, Kafka
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, Node, React y Express**
+- 🌱 Actualmente estoy aprendiendo **JavaScript, TypeScript, Node, React y Express**
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Pregúntame sobre **Java, Spring Boot**
 
-- 📫 How to reach me **lisandro.kruger@outlook.es**
+- 📫 Cómo contactarme **lisandro.kruger@outlook.es**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1yHmHbRBa1OoWMCFpTVJOOr_rc8Y-55DY?usp=sharing](https://drive.google.com/drive/folders/1yHmHbRBa1OoWMCFpTVJOOr_rc8Y-55DY?usp=sharing)
+- 📄 Conoce mis experiencias https://drive.google.com/drive/folders/1yHmHbRBa1OoWMCFpTVJOOr_rc8Y-55DY?usp=sharing
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/lisandrokruger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lisandrokruger" height="30" width="40" /></a>
 </p>
