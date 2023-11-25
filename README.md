@@ -25,17 +25,17 @@
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on ** Spring boot, Hibernate, MySQL, Node, React, Redux, Express, MongoDB, Docker **
+<!--Inicio de introducción-->
+- 🔭 Actualmente estoy trabajando en ** Spring boot, Hibernate, MySQL, Node, React, Redux, Express, MongoDB, Docker **
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React, Redux **
+- 🌱 Actualmente estoy aprendiendo **JavaScript, TypeScript, React, Redux**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ Tengo gran interés en la computación en la nube. Entonces, estoy aprendiendo **AWS**
 
-- 💬 Ask me about ** Spring boot, Hibernate, MySQL, Node, React, Redux, Express, MongoDB, Docker **
+- 💬 Pregúntame sobre ** Spring boot, Hibernate, MySQL, Node, React, Redux, Express, MongoDB, Docker **
 
-- 📫 Feel free to reach me out **lisandro.kruger@outlook.es**
-<!--Intro end-->
+- 📫 No dudes en contactar conmigo **lisandro.kruger@outlook.es**
+<!--Fin de la introducción-->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
