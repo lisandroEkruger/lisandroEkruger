@@ -5,10 +5,21 @@
 <!--h1 sin borde inferior-->
 <div id="usuario-content-toc">
    <ul align="centro">
-     <summary><h1 style="display: inline-block">Hola 👋, soy Lisandro Kruger</h1></summary>
+     <summary><h1 class="animated-text" style="display: inline-block">Hola 👋, soy Lisandro Kruger</h1></summary>
    </ul>
 </div>
 
+<!-- Agregar estilos CSS para la animación -->
+<style>
+@keyframes animated-text {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.animated-text {
+  animation: animated-text 2s linear infinite;
+}
+</style>
 
 <!--- snake -->
 <div align="center">
@@ -26,13 +37,13 @@
 
 
 <!--Inicio de introducción-->
-- 🔭 Actualmente estoy trabajando en ** Spring boot, Hibernate, MySQL, Node, React, Redux, Express, MongoDB, Docker **
+- 🔭 Actualmente estoy trabajando en **Spring boot, Hibernate, MySQL, Node, React, Redux, Express, MongoDB, Docker**
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript, TypeScript, React, Redux**
 
 - ☁️ Tengo gran interés en la computación en la nube. Entonces, estoy aprendiendo **AWS**
 
-- 💬 Pregúntame sobre ** Spring boot, Hibernate, MySQL, Node, React, Redux, Express, MongoDB, Docker **
+- 💬 Pregúntame sobre **Spring boot, Hibernate, MySQL, Node, React, Redux, Express, MongoDB, Docker**
 
 - 📫 No dudes en contactar conmigo **lisandro.kruger@outlook.es**
 <!--Fin de la introducción-->
