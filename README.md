@@ -5,7 +5,7 @@
 <!--h1 sin borde inferior-->
 <div id="usuario-content-toc">
    <ul align="centro">
-     <summary><h1 class="animated-text" style="display: inline-block">Hola 👋, soy Lisandro Kruger</h1></summary>
+     <summary><h1 style="display: inline-block">Hola 👋, soy Lisandro Kruger</h1></summary>
    </ul>
 </div>
 
