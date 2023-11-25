@@ -2,11 +2,11 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 sin borde inferior-->
-<div id="usuario-content-toc">
-   <ul align="centro">
-     <summary><h1 style="display: inline-block">Hola 👋, soy Lisandro Kruger</h1></summary>
-   </ul>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hola 👋, soy Lisandro Kruger</h1></summary>
+  </ul>
 </div>
 
 <!--- snake -->
@@ -15,14 +15,12 @@
        alt="snake" /></a>
 </div>
 
-
-<!--h2 sin borde inferior-->
-<div id="usuario-content-toc">
-   <ul align="centro">
-     <summary><h2 style="display: inline-block">Desarrollador Full Stack Junior</h2></summary>
-   </ul>
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Desarrollador Full Stack Junior</h2></summary>
+  </ul>
 </div>
-
 
 <!--Inicio de introducción-->
 - 🔭 Actualmente estoy trabajando en **Spring boot, Hibernate, MySQL, Node, React, Redux, Express, MongoDB, Docker**
