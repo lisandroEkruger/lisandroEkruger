@@ -9,18 +9,6 @@
    </ul>
 </div>
 
-<!-- Agregar estilos CSS para la animación -->
-<style>
-@keyframes animated-text {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-
-.animated-text {
-  animation: animated-text 2s linear infinite;
-}
-</style>
-
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
