@@ -43,7 +43,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,css,bootstrap,tailwind,git,github,docker,mongodb,mysql,nodejs,express,vscode,idea&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,docker,eclipse,express,git,github,hibernate,html,idea,java,js,kafka,materialui,mongodb,mysql,nodejs,postman,react,redux,sass,spring,tailwind,ts,vscode,vite&perline=13" />
   </a>
 </p>
 
