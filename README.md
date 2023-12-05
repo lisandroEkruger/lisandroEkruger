@@ -31,7 +31,7 @@
 
 - 🔭 Actualmente estoy mejorando activamente **mi nivel de inglés** para poder colaborar de manera más efectiva en entornos multiculturales y globales.
 
-- 💬 Pregúntame sobre **Java, Hibernate, Spring Boot, SQL, JUnit, HTML, CSS, JAVASCRIPT.**
+- 💬 Pregúntame sobre **Java, Hibernate, Spring Boot, SQL, JUnit, HTML, CSS, JavaScript.**
 
 - 🌱 Actualmente estoy aprendiendo **React, Redux, Jest, TypeScript.**
 
