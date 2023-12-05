@@ -23,13 +23,17 @@
 </div>
 
 <!--Inicio de introducción-->
-- 🔭 Actualmente estoy trabajando en **Spring boot, Hibernate, MySQL, Node, React, Redux, Express, MongoDB, Docker**
+- **Apasionado por aprender nuevas tecnologías y aplicar mis conocimientos para ayudar a otros.** 
 
-- 🌱 Actualmente estoy aprendiendo **JavaScript, TypeScript, React, Redux**
+- **Soy un profesional comprometido con la calidad y la excelencia, con habilidades efectivas de comunicación y colaboración.**
 
-- ☁️ Tengo gran interés en la computación en la nube. Entonces, estoy aprendiendo **AWS**
+- **Busco oportunidades para formar parte de un equipo de IT donde pueda desarrollarme profesionalmente y contribuir con mis habilidades**.
 
-- 💬 Pregúntame sobre **Spring boot, Hibernate, MySQL, Node, React, Redux, Express, MongoDB, Docker**
+- 🔭 Actualmente estoy mejorando activamente **mi nivel de inglés** para poder colaborar de manera más efectiva en entornos multiculturales y globales.
+
+- 💬 Pregúntame sobre **Java, Hibernate, Spring Boot, SQL, JUnit, HTML, CSS, JAVASCRIPT**
+
+- 🌱 Actualmente estoy aprendiendo **React, Redux, Jest, TypeScript**
 
 - 📫 No dudes en contactar conmigo **lisandro.kruger@outlook.es**
 <!--Fin de la introducción-->
