@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Lisandro Kruger</h1></summary>
+    <summary><h1 style="display: inline-block">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Lisandro Kruger</h1></summary>
   </ul>
 </div>
 
