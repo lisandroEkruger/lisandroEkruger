@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Lisandro. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para ayudar a otros.</h1></summary>
+    <summary><h1 style="display: inline-block">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Lisandro. Me encanta sumergirme en nuevas tecnologías y compartir lo que aprendo con los demás. Creo firmemente en el poder de la colaboración para crear soluciones innovadoras.</h1></summary>
   </ul>
 </div>
 
@@ -16,39 +16,64 @@
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Desarrollador Full Stack Junior</h2></summary>
-  </ul>
-</div>
-
-<!--Inicio de introducción-->
-- **Apasionado por aprender nuevas tecnologías y aplicar mis conocimientos para ayudar a otros.** 
-
-- **Soy un profesional comprometido con la calidad y la excelencia, con habilidades efectivas de comunicación y colaboración.**
-
-- **Busco oportunidades para formar parte de un equipo de IT donde pueda desarrollarme profesionalmente y contribuir con mis habilidades**.
-
-- 🔭 Actualmente estoy mejorando activamente **mi nivel de inglés** para poder colaborar de manera más efectiva en entornos multiculturales y globales.
-
-- 💬 Pregúntame sobre **Java, Hibernate, Spring Boot, SQL, JUnit, HTML, CSS, JavaScript.**
-
-- 🌱 Actualmente estoy aprendiendo **React, Redux, Jest, TypeScript.**
-
-- 📫 No dudes en contactar conmigo **lisandro.kruger@outlook.es**
-<!--Fin de la introducción-->
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,docker,eclipse,express,git,github,hibernate,html,idea,java,js,kafka,materialui,mongodb,mysql,nodejs,postman,react,redux,sass,spring,tailwind,ts,vscode,vite&perline=13" />
-  </a>
+    <ul align="center">
+      <summary><h2 style="display: inline-block">Full Stack Developer Java / React</h2></summary>
+    </ul>
+  </div>
+  
+  <div>
+    <h2>🎯 Intereses Profesionales</h2>
+    <p>
+      🚀 Mi meta profesional es liderar un equipo de desarrollo de software, mejorando continuamente mis habilidades técnicas y de liderazgo, y fomentando un ambiente de trabajo                 positivo y         colaborativo.<br>
+      💡 Aprender nuevas tecnologías y aplicar mis conocimientos para ayudar a otros. Busco oportunidades para formar parte de un equipo de IT donde pueda desarrollarme                                              profesionalmente y contribuir con mis habilidades.
+    </p>
+    <h2>👨‍💻 Experiencia Laboral</h2>
+  <p>
+    🏢 Integral Software <br>
+    📝 Desarrollador Full Stack Java <br>
+    🏆 Analicé y comprendí las características de los incidentes, realicé pruebas, reproduje problemas, recibí contextos de pruebas de prueba y ejecuté coincidencias encontradas para garantizar la calidad del software. <br>
+    🏆 Recreé contextos de prueba para reproducir y resolver problemas. <br>
+    🏆 Ejecuté reincidencias encontradas para garantizar la calidad del software.
+    📅 Marzo de 2023 - Agosto de 2023
 </p>
+  <h2>🖥️ Habilidades Técnicas</h2>
+    <h3>📚 Lenguajes de Programación y Frameworks</h3>
+    <p>
+        Java, Hibernate, Spring Boot - Cloud, JavaScript, TypeScript, Nodejs, React, Redux
+    </p>
+    <h3>🛠️ Herramientas de Pruebas y Bases de Datos</h3>
+    <p>
+        JUnit, Mockito, Jest, SQL, NoSQL
+    </p>
+    <h3>🔄 Metodologías y Otras Habilidades</h3>
+    <p>
+        Metodologías Agile, Virtualización, Seguridad de la Información
+    </p>
+</p>
+  <h2>🎓 Educación</h2>
+  <p>
+    🏫 Universidad Tecnologica Nacional Regional Santa Fe <br>
+    🎖️ Tecnología de la Información <br>
+    📅 Marzo de 2021 - Septiembre de 2023
+</p>
+  <h2>🔬 Proyectos Relevantes</h2>
+  <p>
+      📚 Nombre del proyecto <br>
+      📝 Descripción del proyecto <br>
+      💻 Tecnologías utilizadas <br>
+      🎯 Resultados del proyecto
+  </p>
+  <h2>🌐 Idiomas</h2>
+  <p>
+    🗣️ Castellano (nativo) <br>
+    📊 Inglés (nivel A2)
+  </p>
+  <h2>📫 Información de Contacto</h2>
+  <p>
+    📧 lisandro.kruger@outlook.es <br>
+    🌐 LinkedIn: lisandrokruger
+  </p>
+</div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -78,17 +103,9 @@
     </a>
 </div>
 <!--- trophy (start) -->
-
-
 </p>        
 <!--- stats (end) -->
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conéctate conmigo
 
     
 <!--horizontal divider(gradiant)-->
