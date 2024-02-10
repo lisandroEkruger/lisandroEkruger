@@ -18,7 +18,7 @@
 <div id="user-content-toc">
     <ul align="center">
       <summary><h2 style="display: inline-block">Full Stack Developer Java / React</h2></summary>
-    </ul>
+      <h3>[Ver CV](https://drive.google.com/file/d/17S-v8WpfW4YDzNpo4fQMvmElNNqKdqED/view?usp=drive_link).</h3>
   </div>
   
   <div>
@@ -50,23 +50,12 @@
         Metodologías Agile, Virtualización, Seguridad de la Información
     </p>
 </p>
-  <h2>🎓 Educación</h2>
-  <p>
-    🏫 Universidad Tecnologica Nacional Regional Santa Fe <br>
-    🎖️ Tecnología de la Información <br>
-    📅 Marzo de 2021 - Septiembre de 2023
-</p>
   <h2>🔬 Proyectos Relevantes</h2>
   <p>
       📚 Nombre del proyecto <br>
       📝 Descripción del proyecto <br>
       💻 Tecnologías utilizadas <br>
       🎯 Resultados del proyecto
-  </p>
-  <h2>🌐 Idiomas</h2>
-  <p>
-    🗣️ Castellano (nativo) <br>
-    📊 Inglés (nivel A2)
   </p>
   <h2>📫 Información de Contacto</h2>
   <p>
