@@ -24,7 +24,7 @@
   <div>
   <h2>📫 Información de Contacto</h2>
   <p>
-  📞 (+549) 343 - 5246296 <br>
+  📞 (+549) 343-5246296 <br>
   📧 lisandro.kruger@outlook.es <br>
   🌐 LinkedIn: lisandrokruger
   </p>
