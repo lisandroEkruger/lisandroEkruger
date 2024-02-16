@@ -18,53 +18,62 @@
   <div id="user-content-toc">
   <ul align="center">
   <summary><h2 style="display: inline-block">Full Stack Developer Java / React</h2></summary>
-  <h3><a type="button" href="https://drive.google.com/file/d/1QjNQZMq90hbxunyPqeIVjPjp7ncOyPor/view?usp=sharing" target="_blank">[Ver CV]</a></h3>
+  <h3><a type="button" href="[https://drive.google.com/file/d/1QjNQZMq90hbxunyPqeIVjPjp7ncOyPor/view?usp=sharing](https://drive.google.com/drive/folders/1fldXyxuRYOM8Wn32w8X9BTVXc7TzPSYU?usp=sharing)" target="_blank">[Ver CV]</a></h3>
   </div>
   
   <div>
-  <h2>📫 Información de Contacto</h2>
-  <p>
-  📞 5493435246296 <br>
-  📧 lisandro.kruger@outlook.es <br>
-  🌐 LinkedIn: lisandrokruger
-  </p>
-  <h2>🎯 Intereses Profesionales</h2>
-  <p>
-  🚀 Mi meta profesional es liderar un equipo de desarrollo de software, mejorando continuamente mis habilidades técnicas y de liderazgo, y fomentando un ambiente de trabajo                 positivo y         colaborativo.<br>
-  💡 Aprender nuevas tecnologías y aplicar mis conocimientos para ayudar a otros. Busco oportunidades para formar parte de un equipo de IT donde pueda desarrollarme                                              profesionalmente y contribuir con mis habilidades.
-  </p>
-  <h2>👨‍💻 Experiencia Laboral</h2>
-  <p>
-  🏢 Integral Software <br>
-  📝 Desarrollador Full Stack Java <br>
-  🏆 Analicé y comprendí las características de los incidentes, realicé pruebas, reproduje problemas, recibí contextos de pruebas de prueba y ejecuté coincidencias encontradas para garantizar la calidad del software. <br>
-  🏆 Recreé contextos de prueba para reproducir y resolver problemas. <br>
-  🏆 Ejecuté reincidencias encontradas para garantizar la calidad del software.
-  📅 Marzo de 2023 - Agosto de 2023
-  </p>
-  <h2>🖥️ Habilidades Técnicas</h2>
-  <h3>📚 Lenguajes de Programación y Frameworks</h3>
-  <p>
-    Java, Hibernate, Spring Boot - Cloud, JavaScript, TypeScript, Nodejs, React, Redux
-  </p>
-  <h3>🛠️ Herramientas de Pruebas y Bases de Datos</h3>
-  <p>
-    JUnit, Mockito, Jest, SQL, NoSQL
-  </p>
-  <h3>🔄 Metodologías y Otras Habilidades</h3>
-  <p>
-    Metodologías Agile, Virtualización, Seguridad de la Información
-  </p>
-  </p>
-  <h2>🔬 Proyectos Relevantes</h2>
-  <p>
-  📚 Nombre del proyecto <br>
-  📝 Descripción del proyecto <br>
-  💻 Tecnologías utilizadas <br>
-  🎯 Resultados del proyecto
-  </p>
+    <div>
+      <h2>📫 Información de Contacto</h2>
+      <p>
+      📞 5493435246296 <br>
+      📧 lisandro.kruger@outlook.es <br>
+      🌐 LinkedIn: lisandrokruger
+      </p>
+    </div>
+    <div>
+      <h2>🎯 Intereses Profesionales</h2>
+      <p>
+      🚀 Mi meta profesional es liderar un equipo de desarrollo de software, mejorando continuamente mis habilidades técnicas y de liderazgo, y fomentando un ambiente de trabajo                 positivo y         colaborativo.<br>
+      💡 Aprender nuevas tecnologías y aplicar mis conocimientos para ayudar a otros. Busco oportunidades para formar parte de un equipo de IT donde pueda desarrollarme                                              profesionalmente y contribuir con mis habilidades.
+      </p>
+    </div>
+    <div>
+      <h2>👨‍💻 Experiencia Laboral</h2>
+      <p>
+      🏢 Integral Software <br>
+      📝 Desarrollador Full Stack Java <br>
+      🏆 Analicé y comprendí las características de los incidentes, realicé pruebas, reproduje problemas, recibí contextos de pruebas de prueba y ejecuté coincidencias encontradas para garantizar la calidad del software. <br>
+      🏆 Recreé contextos de prueba para reproducir y resolver problemas. <br>
+      🏆 Ejecuté reincidencias encontradas para garantizar la calidad del software.
+      📅 Marzo de 2023 - Agosto de 2023
+      </p>
+    </div>
+    <div>
+      <h2>🔬 Proyectos Relevantes</h2>
+      <p>
+      📚 Nombre del proyecto <br>
+      📝 Descripción del proyecto <br>
+      💻 Tecnologías utilizadas <br>
+      🎯 Resultados del proyecto
+      </p>
+    </div>
+    <div>
+      <h2>🖥️ Habilidades Técnicas</h2>
+      <h3>📚 Lenguajes de Programación y Frameworks</h3>
+      <p>
+        Java, Hibernate, Spring Boot - Cloud, JavaScript, TypeScript, Nodejs, React, Redux
+      </p>
+      <h3>🛠️ Herramientas de Pruebas y Bases de Datos</h3>
+      <p>
+        JUnit, Mockito, Jest, SQL, NoSQL
+      </p>
+      <h3>🔄 Metodologías y Otras Habilidades</h3>
+      <p>
+        Metodologías Agile, Virtualización, Seguridad de la Información
+      </p>
+    </div>
   </div>
-  
+  <br>
   <!--- stats & Trophy (start) -->
   <p align="center">
   <!--- trophy (start) -->
