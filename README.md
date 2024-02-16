@@ -18,7 +18,7 @@
   <div id="user-content-toc">
   <ul align="center">
   <summary><h2 style="display: inline-block">Full Stack Developer Java / React</h2></summary>
-  <h3><a type="button" href="[https://drive.google.com/file/d/1QjNQZMq90hbxunyPqeIVjPjp7ncOyPor/view?usp=sharing](https://drive.google.com/drive/folders/1fldXyxuRYOM8Wn32w8X9BTVXc7TzPSYU?usp=sharing)" target="_blank">[Ver CV]</a></h3>
+  <h3><a type="button" href="https://drive.google.com/drive/folders/1fldXyxuRYOM8Wn32w8X9BTVXc7TzPSYU?usp=sharing" target="_blank">[Ver CV]</a></h3>
   </div>
   
   <div>
