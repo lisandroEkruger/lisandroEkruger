@@ -51,12 +51,45 @@
     </div>
     <div>
       <h2>🔬 Proyectos Relevantes</h2>
-      <p>
-      📚 Nombre del proyecto <br>
-      📝 Descripción del proyecto <br>
-      💻 Tecnologías utilizadas <br>
-      🎯 Resultados del proyecto
-      </p>
+      <div>
+        <p>
+        📚 Nombre del proyecto: <a href="https://github.com/lisandro-kruger/microservices-apigateway-eurekaserver">Sistema de Gestión de Productos e Inventario con
+        Microservicios</a><br>
+        📝 Descripción del proyecto: Este proyecto consiste en un sistema basado en
+        microservicios que incluye la gestión de productos, inventario y órdenes. El sistema
+        se comunica internamente utilizando WebClient y se ha implementado con
+        contenedores Docker para las bases de datos PostgreSQL y MySQL. Además, se ha
+        integrado Spring Cloud Gateway para el enrutamiento, la seguridad, la
+        transformación de datos y el control de tráfico, y Eureka Netflix para el registro y
+        descubrimiento de servicios. <br>
+        💻 Tecnologías utilizadas: Spring Boot, Spring Cloud, WebClient, Docker, PostgreSQL, MySQL, Spring Cloud Gateway, Eureka Netflix <br>
+        🎯 Resultados del proyecto: Se logró implementar un sistema escalable y fácil de
+        mantener que puede adaptarse a las necesidades cambiantes del negocio. El
+        sistema demostró una comunicación efectiva entre los microservicios y una gestión
+        eficiente de la carga de trabajo a través del equilibrio de carga. Además, se probó
+        con éxito la funcionalidad de cada microservicio y su interacción a través de
+        Postman.
+        </p>
+      </div>
+      <br>
+      <div>
+        <p>
+        📚 Nombre del proyecto: <a href="https://github.com/lisandro-kruger/spring-apache-kafka">Implementación de Apache Kafka en un Sistema de
+Microservicios</a><br>
+        📝 Descripción del proyecto: Este proyecto consiste en un sistema de microservicios
+        que utiliza Apache Kafka para la comunicación asíncrona entre los servicios. El
+        sistema incluye dos microservicios modulares, uno como proveedor y otro como
+        consumidor, que se comunican mediante Kafka. Se configuró el productor y el
+        consumidor de Kafka, se creó un listener de Kafka, y se probó el envío y recepción de
+        mensajes. <br>
+        💻 Tecnologías utilizadas: Apache Kafka, Spring Boot, Maven, Spring Initializr, Docker, PostgreSQL, MySQL <br>
+        🎯 Resultados del proyecto: Se logró implementar Apache Kafka en el sistema de
+        microservicios, permitiendo una comunicación asíncrona eficiente entre los servicios. 
+        El sistema demostró ser escalable y fácil de mantener, adaptándose a las
+        necesidades cambiantes del negocio. Se probó con éxito el envío y recepción de
+        mensajes, demostrando la funcionalidad efectiva del sistema.
+        </p>
+      </div>
     </div>
     <div>
       <h2>🖥️ Habilidades Técnicas</h2>
