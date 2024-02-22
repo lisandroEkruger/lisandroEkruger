@@ -62,7 +62,7 @@
         integrado Spring Cloud Gateway para el enrutamiento, la seguridad, la
         transformación de datos y el control de tráfico, y Eureka Netflix para el registro y
         descubrimiento de servicios. <br>
-        💻 Tecnologías utilizadas: Spring Boot, Spring Cloud, WebClient, Docker, PostgreSQL, MySQL, Spring Cloud Gateway, Eureka Netflix <br>
+        💻 Tecnologías utilizadas: <br> Spring Boot, <br> Spring Cloud, <br> WebClient, <br> Docker, <br> PostgreSQL, <br> MySQL, <br> Spring Cloud Gateway, <br> Eureka Netflix <br>
         🎯 Resultados del proyecto: Se logró implementar un sistema escalable y fácil de
         mantener que puede adaptarse a las necesidades cambiantes del negocio. El
         sistema demostró una comunicación efectiva entre los microservicios y una gestión
@@ -82,7 +82,7 @@ Microservicios</a><br>
         consumidor, que se comunican mediante Kafka. Se configuró el productor y el
         consumidor de Kafka, se creó un listener de Kafka, y se probó el envío y recepción de
         mensajes. <br>
-        💻 Tecnologías utilizadas: Apache Kafka, Spring Boot, Maven, Spring Initializr, Docker, PostgreSQL, MySQL <br>
+        💻 Tecnologías utilizadas: <br> Apache Kafka, <br> Spring Boot, <br> Maven, <br> Spring Initializr, <br> Docker <br>
         🎯 Resultados del proyecto: Se logró implementar Apache Kafka en el sistema de
         microservicios, permitiendo una comunicación asíncrona eficiente entre los servicios. 
         El sistema demostró ser escalable y fácil de mantener, adaptándose a las
