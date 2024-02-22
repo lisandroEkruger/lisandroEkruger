@@ -26,9 +26,9 @@
     <div>
       <h2>📫 Información de Contacto</h2>
       <p>
-      📞 5493435246296 <br>
-      📧 lisandro.kruger@outlook.es <br>
-      🌐 LinkedIn: lisandrokruger
+        🌐 LinkedIn: <a href="www.linkedin.com/in/lisandrokruger">lisandrokruger</a> <br>
+        📞 5493435246296 <br>
+        📧 lisandro.kruger@outlook.es
       </p>
     </div>
     <div>
@@ -40,14 +40,26 @@
     </div>
     <div>
       <h2>👨‍💻 Experiencia Laboral</h2>
-      <p>
-      🏢 Integral Software <br>
-      📝 Desarrollador Full Stack Java <br>
-      🏆 Analicé y comprendí las características de los incidentes, realicé pruebas, reproduje problemas, recibí contextos de pruebas de prueba y ejecuté coincidencias encontradas para garantizar la calidad del software. <br>
-      🏆 Recreé contextos de prueba para reproducir y resolver problemas. <br>
-      🏆 Ejecuté reincidencias encontradas para garantizar la calidad del software.
-      📅 Marzo de 2023 - Agosto de 2023
-      </p>
+      <div>
+        <p>
+          🏢 CIUDARTE DIGITA <br>
+          📝 DESARROLLADOR BACKEND JAVA <br>
+          🏆 Estoy desarrollando una API integral, optimizada para su uso en aplicaciones web y móviles, mejorando la interactividad y eficiencia. <br>
+          🏆 Estoy creando y expandiendo nuevos endpoints, aumentando la funcionalidad y versatilidad de la API. <br>
+          🏆 Estoy implementando pruebas automatizadas rigurosas para validar la calidad del código y garantizar la estabilidad y fiabilidad de la API.<br>
+          📅 Enero de 2024 - Actualmente
+        </p>
+      </div>
+      <div>
+        <p>
+          🏢 INTEGRAL SOFTWARE <br>
+          📝 DESARROLLADOR FULL STACK JAVA <br>
+          🏆 Analicé y comprendí las características de los incidentes, realicé pruebas, reproduje problemas, recibí contextos de pruebas de prueba y ejecuté coincidencias encontradas             para garantizar la calidad del software. <br>
+          🏆 Recreé contextos de prueba para reproducir y resolver problemas. <br>
+          🏆 Ejecuté reincidencias encontradas para garantizar la calidad del software.<br>
+          📅 Marzo de 2023 - Agosto de 2023
+          </p>
+      </div>
     </div>
     <div>
       <h2>🔬 Proyectos Relevantes</h2>
@@ -95,7 +107,7 @@ Microservicios</a><br>
       <h2>🖥️ Habilidades Técnicas</h2>
       <h3>📚 Lenguajes de Programación y Frameworks</h3>
       <p>
-        Java, Hibernate, Spring Boot - Cloud, JavaScript, TypeScript, Nodejs, React, Redux
+        Java, Hibernate, Spring Boot, Cloud, JavaScript, TypeScript, Nodejs, React, Redux, Angular
       </p>
       <h3>🛠️ Herramientas de Pruebas y Bases de Datos</h3>
       <p>
