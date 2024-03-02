@@ -74,7 +74,7 @@
         integrado Spring Cloud Gateway para el enrutamiento, la seguridad, la
         transformación de datos y el control de tráfico, y Eureka Netflix para el registro y
         descubrimiento de servicios. <br>
-        💻 Tecnologías utilizadas: <br> Spring Boot, <br> Spring Cloud, <br> WebClient, <br> Docker, <br> PostgreSQL, <br> MySQL, <br> Spring Cloud Gateway, <br> Eureka Netflix <br>
+        💻 Tecnologías utilizadas: <br> Spring Boot, <br> Spring Cloud, <br> WebClient, <br> Spring Cloud Gateway, <br> Eureka Netflix, <br> PostgreSQL, <br> MySQL, <br> Docker <br>
         🎯 Resultados del proyecto: Se logró implementar un sistema escalable y fácil de
         mantener que puede adaptarse a las necesidades cambiantes del negocio. El
         sistema demostró una comunicación efectiva entre los microservicios y una gestión
@@ -94,12 +94,21 @@ Microservicios</a><br>
         consumidor, que se comunican mediante Kafka. Se configuró el productor y el
         consumidor de Kafka, se creó un listener de Kafka, y se probó el envío y recepción de
         mensajes. <br>
-        💻 Tecnologías utilizadas: <br> Apache Kafka, <br> Spring Boot, <br> Maven, <br> Spring Initializr, <br> Docker <br>
+        💻 Tecnologías utilizadas: <br> Apache Kafka, <br> Spring Boot, <br> Spring Web, <br> Spring Boot DevTools, <br> Docker <br>
         🎯 Resultados del proyecto: Se logró implementar Apache Kafka en el sistema de
         microservicios, permitiendo una comunicación asíncrona eficiente entre los servicios. 
         El sistema demostró ser escalable y fácil de mantener, adaptándose a las
         necesidades cambiantes del negocio. Se probó con éxito el envío y recepción de
         mensajes, demostrando la funcionalidad efectiva del sistema.
+        </p>
+      </div>
+      <br>
+      <div>
+        <p>
+        📚 Nombre del proyecto: <a href="https://github.com/lisandro-kruger/spring-boot-keycloak-integration.git">Integración de Spring Boot con Keycloak</a><br>
+        📝 Descripción del proyecto: Este proyecto es una aplicación web que utiliza Spring Boot y Keycloak para autenticar y gestionar usuarios. La aplicación permite crear, buscar, actualizar y                  eliminar usuarios a través de una interfaz de usuario y un API. Además, la aplicación utiliza un convertidor de autenticación JWT para extraer los roles y permisos de un token generado por                 Keycloak. <br>
+        💻 Tecnologías utilizadas: <br> Spring Boot, <br> Keycloak, <br> JWT, <br> Lombok, <br> Spring Security, <br> Docker, <br>
+        🎯 Resultados del proyecto: Como resultado, hemos creado una aplicación web segura y robusta que permite gestionar usuarios y roles de manera eficiente. La aplicación puede autenticar usuarios,           asignar roles y permisos, y restringir el acceso a ciertos endpoints basándose en los roles del usuario. Además, la aplicación puede interactuar con Keycloak para listar, buscar, crear, actualizar         y eliminar usuarios. Todo el código del proyecto está disponible en GitHub para su revisión y uso.
         </p>
       </div>
     </div>
