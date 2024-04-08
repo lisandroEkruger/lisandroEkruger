@@ -111,6 +111,15 @@ Microservicios</a><br>
         🎯 Resultados del proyecto: Como resultado, hemos creado una aplicación web segura y robusta que permite gestionar usuarios y roles de manera eficiente. La aplicación puede autenticar usuarios,           asignar roles y permisos, y restringir el acceso a ciertos endpoints basándose en los roles del usuario. Además, la aplicación puede interactuar con Keycloak para listar, buscar, crear, actualizar         y eliminar usuarios. Todo el código del proyecto está disponible en GitHub para su revisión y uso.
         </p>
       </div>
+      <br>
+      <div>
+        <p>
+        📚 Nombre del proyecto: <a href="https://subcription-tailwind-material-react.vercel.app/">Subscriptions Tracker</a><br>
+        📝 Descripción del proyecto: Este proyecto es una aplicación web que te permite realizar un seguimiento de tus suscripciones a servicios como Netflix, Disney Plus, Spotify y más. Puedes establecer un presupuesto, agregar tus suscripciones y ver cuánto has gastado en total. La aplicación ofrece funcionalidades para agregar presupuesto, agregar suscripciones y ver el balance de tu presupuesto. <br>
+        💻 Tecnologías utilizadas: El proyecto utiliza varias tecnologías, incluyendo React para construir interfaces de usuario, Material-UI como framework de componentes de React basado en Material Design, y Tailwind CSS como framework de utilidades CSS para estilizar los componentes. <br>
+        🎯 Resultados del proyecto: El resultado es una aplicación web funcional que permite a los usuarios gestionar y hacer seguimiento de sus suscripciones a diversos servicios. La aplicación está desplegada en Vercel y se puede acceder a ella a través del siguiente enlace: subcription-tailwind-material-react.vercel.app.
+        </p>
+      </div>
     </div>
     <div>
       <h2>🖥️ Habilidades Técnicas</h2>
