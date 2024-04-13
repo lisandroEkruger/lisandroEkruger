@@ -114,6 +114,15 @@ Microservicios</a><br>
       <br>
       <div>
         <p>
+        📚 Nombre del proyecto: <a href="https://memory-game-supabase-react-9su8.vercel.app/">Memory Game App</a><br>
+        📝 Descripción del proyecto: Este proyecto es un juego de memoria interactivo construido con React. Los jugadores pueden iniciar el juego, jugar hasta que se acabe el tiempo, y luego guardar su puntuación con su nombre. Las puntuaciones se guardan en una base de datos y se muestran en una tabla de clasificación. <br>
+        💻 Tecnologías utilizadas: El proyecto utiliza varias tecnologías, incluyendo React para construir interfaces de usuario, Material-UI como framework de componentes de React basado en Material Design, y Sass como preprocesador CSS para estilizar los componentes. <br>
+        🎯 Resultados del proyecto: El proyecto resultó en un juego de memoria completamente funcional que permite a los usuarios jugar, guardar sus puntuaciones y ver una tabla de clasificación. El juego también incluye características como un temporizador de cuenta regresiva y animaciones de confeti para celebrar el éxito del jugador. La aplicación está desplegada en Vercel y se puede acceder a ella a través del siguiente enlace: memory-game-supabase-react-9su8.vercel.app.
+        </p>
+      </div>
+      <br>
+      <div>
+        <p>
         📚 Nombre del proyecto: <a href="https://subcription-tailwind-material-react.vercel.app/">Subscriptions Tracker</a><br>
         📝 Descripción del proyecto: Este proyecto es una aplicación web que te permite realizar un seguimiento de tus suscripciones a servicios como Netflix, Disney Plus, Spotify y más. Puedes establecer un presupuesto, agregar tus suscripciones y ver cuánto has gastado en total. La aplicación ofrece funcionalidades para agregar presupuesto, agregar suscripciones y ver el balance de tu presupuesto. <br>
         💻 Tecnologías utilizadas: El proyecto utiliza varias tecnologías, incluyendo React para construir interfaces de usuario, Material-UI como framework de componentes de React basado en Material Design, y Tailwind CSS como framework de utilidades CSS para estilizar los componentes. <br>
