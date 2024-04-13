@@ -129,7 +129,15 @@ Microservicios</a><br>
         🎯 Resultados del proyecto: El resultado es una aplicación web funcional que permite a los usuarios gestionar y hacer seguimiento de sus suscripciones a diversos servicios. La aplicación está desplegada en Vercel y se puede acceder a ella a través del siguiente enlace: subcription-tailwind-material-react.vercel.app.
         </p>
       </div>
-    </div>
+      <br>
+      <div>
+        <p>
+        📚 Nombre del proyecto: <a href="https://api-rick-and-morty-react-rosy.vercel.app/">Rick y Morty Character Explorer</a><br>
+        📝 Descripción del proyecto: Este proyecto es una aplicación web desarrollada en React que permite a los usuarios explorar los personajes de la serie Rick y Morty. Los usuarios pueden navegar por las páginas de personajes y ver detalles como el nombre, la especie, el estado y el origen de cada personaje. <br>
+        💻 Tecnologías utilizadas: Este proyecto utiliza React para la interfaz de usuario, Bootstrap para los estilos y la API de Rick y Morty para obtener los datos de los personajes. El proyecto se despliega en Vercel para una fácil accesibilidad y mantenimiento. <br>
+        🎯 Resultados del proyecto: El proyecto proporciona una interfaz de usuario intuitiva y atractiva que permite a los usuarios explorar los personajes de Rick y Morty de una manera fácil y divertida. Con la paginación implementada, los usuarios pueden navegar a través de todos los personajes disponibles en la API de Rick y Morty. La aplicación está desplegada en Vercel y se puede acceder a ella a través del siguiente enlace: api-rick-and-morty-react-rosy.vercel.app.
+        </p>
+      </div>
     <div>
       <h2>🖥️ Habilidades Técnicas</h2>
       <h3>📚 Lenguajes de Programación y Frameworks</h3>
