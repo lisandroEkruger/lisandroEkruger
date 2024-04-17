@@ -18,7 +18,7 @@
   <!--h2 without bottom border-->
   <div id="user-content-toc">
   <ul align="center">
-  <summary><h2 style="display: inline-block">Full Stack Developer Java (Spring boot / Quarkus) - React</h2></summary>
+  <summary><h2 style="display: inline-block">FULL STACK DEVELOPER JAVA</h2></summary>
   <h3><a type="button" href="https://drive.google.com/drive/folders/1fldXyxuRYOM8Wn32w8X9BTVXc7TzPSYU?usp=sharing" target="_blank">[Ver CV]</a></h3>
   </div>
   
