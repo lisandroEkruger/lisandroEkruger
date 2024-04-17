@@ -140,17 +140,15 @@ Microservicios</a><br>
       </div>
     <div>
       <h2>🖥️ Habilidades Técnicas</h2>
-      <h3>📚 Lenguajes de Programación y Frameworks</h3>
-      <p>
-        Java, Hibernate, Spring Boot, Cloud, JavaScript, TypeScript, Nodejs, React, Redux, Angular
-      </p>
-      <h3>🛠️ Herramientas de Pruebas y Bases de Datos</h3>
-      <p>
-        JUnit, Mockito, Jest, SQL, NoSQL
-      </p>
-      <h3>🔄 Metodologías y Otras Habilidades</h3>
-      <p>
-        Metodologías Agile, Virtualización, Seguridad de la Información
+      <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,hibernate,spring,kafka,docker,github,gitlab,mysql,postgres,postman,idea,eclipse" />
+      </a>
+    </p>
+      <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,redux,jquery,vite,bootstrap,materialui,tailwind,mongodb,vscode" />
+      </a>
       </p>
     </div>
   </div>
