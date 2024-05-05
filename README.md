@@ -18,7 +18,7 @@
   <!--h2 without bottom border-->
   <div id="user-content-toc">
   <ul align="center">
-  <summary><h2 style="display: inline-block">FULL STACK DEVELOPER JAVA</h2></summary>
+  <summary><h2 style="display: inline-block">FULL STACK DEVELOPER JAVA / ANGULAR</h2></summary>
   <h3><a type="button" href="https://drive.google.com/drive/folders/1fldXyxuRYOM8Wn32w8X9BTVXc7TzPSYU?usp=sharing" target="_blank">[Ver CV]</a></h3>
   </div>
   
@@ -43,7 +43,7 @@
       <div>
         <p>
           🏢 CIUDARTE DIGITA <br>
-          📝 DESARROLLADOR BACKEND JAVA <br>
+          📝 DESARROLLADOR FULL STACK JAVA / ANGULAR <br>
           🏆 Estoy desarrollando una API integral, optimizada para su uso en aplicaciones web y móviles, mejorando la interactividad y eficiencia. <br>
           🏆 Estoy creando y expandiendo nuevos endpoints, aumentando la funcionalidad y versatilidad de la API. <br>
           🏆 Estoy implementando pruebas automatizadas rigurosas para validar la calidad del código y garantizar la estabilidad y fiabilidad de la API.<br>
