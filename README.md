@@ -147,7 +147,7 @@ Microservicios</a><br>
     </p>
       <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,redux,jquery,vite,bootstrap,materialui,tailwind,mongodb,vscode" />
+        <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,angular,jquery,vite,bootstrap,materialui,tailwind,mongodb,vscode" />
       </a>
       </p>
     </div>
