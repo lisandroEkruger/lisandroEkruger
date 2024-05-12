@@ -26,7 +26,7 @@
     <div>
       <h2>📫 Información de Contacto</h2>
       <p>
-        🌐 LinkedIn: <a href="www.linkedin.com/in/lisandrokruger">lisandrokruger</a> <br>
+        🌐 LinkedIn: <a href="https://www.linkedin.com/in/lisandrokruger" target="_blank">lisandrokruger</a> <br>
         📞 5493435246296 <br>
         📧 lisandro.kruger@outlook.es
       </p>
