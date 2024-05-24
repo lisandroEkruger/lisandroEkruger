@@ -15,14 +15,14 @@
 
 <h2>💻 Work Experience</h2>
 <h3>CIUDARTE DIGITA (StartUp) | FULL STACK DEVELOPER JAVA / ANGULAR | 01/2024 - Actualmente</h3>
-<p>Estoy desarrollando una API integral, optimizada para su uso en aplicaciones web y móviles, mejorando la interactividad y eficiencia.</p>
-<p>Estoy creando y expandiendo nuevos endpoints, aumentando la funcionalidad y versatilidad de la API.</p>
-<p>Estoy implementando pruebas automatizadas rigurosas para validar la calidad del código y garantizar la estabilidad y fiabilidad de la API.</p>
+<p>- Estoy desarrollando una API integral, optimizada para su uso en aplicaciones web y móviles, mejorando la interactividad y eficiencia.</p>
+<p>- Estoy creando y expandiendo nuevos endpoints, aumentando la funcionalidad y versatilidad de la API.</p>
+<p>- Estoy implementando pruebas automatizadas rigurosas para validar la calidad del código y garantizar la estabilidad y fiabilidad de la API.</p>
 
 <h3>INTEGRAL SOFTWARE | FULL STACK DEVELOPER JAVA / JSP | 03/2023 - 08/2023</h3> 
-<p>Analicé y comprendí las características de los incidentes, realicé pruebas, reproduje problemas, recibí contextos de pruebas de prueba y ejecuté coincidencias encontradas             para garantizar la calidad del software.</p>
-<p>Recreé contextos de prueba para reproducir y resolver problemas.</p>
-<p>Ejecuté reincidencias encontradas para garantizar la calidad del software.</p>
+<p>- Analicé y comprendí las características de los incidentes, realicé pruebas, reproduje problemas, recibí contextos de pruebas de prueba y ejecuté coincidencias encontradas             para garantizar la calidad del software.</p>
+<p>- Recreé contextos de prueba para reproducir y resolver problemas.</p>
+<p>- Ejecuté reincidencias encontradas para garantizar la calidad del software.</p>
 
 <h2>🎓 Education</h2>
 <h3>Tecnologías de la Información | Universidad Tecnológica Nacional | Santa Fe Capital, Argentina (03/2021 - 08/2023)</h3>
