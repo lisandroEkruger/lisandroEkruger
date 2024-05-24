@@ -11,9 +11,9 @@
 </div>
 
 # 🎯 Professional Interests
-- **Mi meta profesional es liderar un equipo de desarrollo de software, mejorando continuamente mis habilidades técnicas y de liderazgo, y fomentando un ambiente de trabajo                 positivo y colaborativo.**
+- **Mi principal objetivo es entregar soluciones de alta calidad, lo que impulsa el progreso en cada proyecto en el que participo. Veo cada proyecto como una oportunidad para superarme y alcanzar nuevos horizontes.**
 
-# 👨‍💻 Work Experience
+# 💻 Work Experience
 ### CIUDARTE DIGITA (StartUp) | FULL STACK DEVELOPER JAVA / ANGULAR | 01/2024 - Actualmente
 - **Estoy desarrollando una API integral, optimizada para su uso en aplicaciones web y móviles, mejorando la interactividad y eficiencia.**
 - **Estoy creando y expandiendo nuevos endpoints, aumentando la funcionalidad y versatilidad de la API.**
