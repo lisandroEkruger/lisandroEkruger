@@ -10,19 +10,21 @@
 <h3><a type="button" href="https://drive.google.com/drive/folders/1fldXyxuRYOM8Wn32w8X9BTVXc7TzPSYU?usp=sharing" target="_blank">[Ver CV]</a></h3>
 </div>
 
-<h2>🎯 Professional Interests</h2>
+<h2>🎯 Profile</h2>
 <p>Mi principal objetivo es entregar soluciones de alta calidad, lo que impulsa el progreso en cada proyecto en el que participo. Veo cada proyecto como una oportunidad para superarme y alcanzar nuevos horizontes.</p>
 
-<h2>💻 Work Experience</h2>
+<h2>💻 Professional Experience</h2>
 <h3>CIUDARTE DIGITA (StartUp) | FULL STACK DEVELOPER JAVA / ANGULAR | 01/2024 - Actualmente</h3>
-<p>- Estoy desarrollando una API integral, optimizada para su uso en aplicaciones web y móviles, mejorando la interactividad y eficiencia.</p>
-<p>- Estoy creando y expandiendo nuevos endpoints, aumentando la funcionalidad y versatilidad de la API.</p>
-<p>- Estoy implementando pruebas automatizadas rigurosas para validar la calidad del código y garantizar la estabilidad y fiabilidad de la API.</p>
+<h4>Tecnologías: Java 17, Quarkus, JUnit, Mockito, TypeScript, SCSS, Angular 17, Bootstrap, Docker, PostgreSQL, Swagger.</h4>
+<p>- Diseño e implementación de la arquitectura de la aplicación back-end y front-end.</p>
+<p>- Creando y expandiendo nuevos endpoints.</p>
+<p>- Creando un panel de administración (Dashboard) para visualizar la información.</p>
 
-<h3>INTEGRAL SOFTWARE | FULL STACK DEVELOPER JAVA / JSP | 03/2023 - 08/2023</h3> 
-<p>- Analicé y comprendí las características de los incidentes, realicé pruebas, reproduje problemas, recibí contextos de pruebas de prueba y ejecuté coincidencias encontradas             para garantizar la calidad del software.</p>
-<p>- Recreé contextos de prueba para reproducir y resolver problemas.</p>
-<p>- Ejecuté reincidencias encontradas para garantizar la calidad del software.</p>
+<h3>INTEGRAL SOFTWARE | FULL STACK DEVELOPER JAVA / JSP | 03/2023 - 08/2023</h3>
+<h4>Tecnologías: Java 8 & 11, Hibernate, Spring Security, Servlet, JavaScript, JSP, Semantic UI, JQuery, JasperReports, SQL Server, WildFly.</h4>
+<p>- Comprensión de las características del incidente asignada por mi Team Lead (análisis, diseño, solución, etc).</p>
+<p>- Generar nuevos comprobantes con la herramienta JasperReports.</p>
+<p>- Refactorización de código, resolver bugs y registrar horas.</p>
 
 <h2>🎓 Education</h2>
 <h3>Tecnologías de la Información | Universidad Tecnológica Nacional | Santa Fe Capital, Argentina (03/2021 - 08/2023)</h3>
@@ -36,7 +38,7 @@
 <h2>✍️ Blogging</h2>
 <h3>Escribo regularmente artículos en LinkedIn & X (Twitter).</h3>
 
-<details><summary><h2>🖥️ Technical Skills</h2></summary> 
+<details><summary><h2>🖥️ Skills</h2></summary> 
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,hibernate,spring,kafka,docker,github,gitlab,mysql,postgres,postman,idea,eclipse" />
