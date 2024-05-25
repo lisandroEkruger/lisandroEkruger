@@ -20,18 +20,6 @@
 <p>- Creando y expandiendo nuevos endpoints.</p>
 <p>- Creando un panel de administración (Dashboard) para visualizar la información.</p>
 
-<h3>INTEGRAL SOFTWARE | FULL STACK DEVELOPER JAVA / JSP | 03/2023 - 08/2023</h3>
-<h4>Tecnologías: Java 8 & 11, Hibernate, Spring Security, Servlet, JavaScript, JSP, Semantic UI, JQuery, JasperReports, SQL Server, WildFly.</h4>
-<p>- Comprensión de las características del incidente asignada por mi Team Lead (análisis, diseño, solución, etc).</p>
-<p>- Generar nuevos comprobantes con la herramienta JasperReports.</p>
-<p>- Refactorización de código, resolver bugs y registrar horas.</p>
-
-<h2>🎓 Education</h2>
-<h3>Tecnologías de la Información | Universidad Tecnológica Nacional | Santa Fe Capital, Argentina (03/2021 - 08/2023)</h3>
-
-<h2>📚 Courses</h2>
-<h3>Curso de inglés de A1 hasta C2 | Edutin Academy | 01/2024 - Presente</h3>
-
 <h2>🌐 Languages</h2>
 <h3>Español (Nativo) | Inglés (A2)</h3>
 
