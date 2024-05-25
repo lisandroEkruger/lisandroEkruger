@@ -20,9 +20,6 @@
 <p>- Creando y expandiendo nuevos endpoints.</p>
 <p>- Creando un panel de administración (Dashboard) para visualizar la información.</p>
 
-<h2>🌐 Languages</h2>
-<h3>Español (Nativo) | Inglés (A2)</h3>
-
 <h2>✍️ Blogging</h2>
 <h3>Escribo regularmente artículos en LinkedIn & X (Twitter).</h3>
 
