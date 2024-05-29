@@ -51,14 +51,14 @@
   <table align="center">
   <tr border="none">
   <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lisandro-kruger&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lisandroEkruger&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
   alt="adam-pw" />
   <br></br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lisandro-kruger&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lisandroEkruger&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /> 
   </td>
   <td width="50%" align="center">
   <img align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=lisandro-kruger&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=lisandroEkruger&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
   alt="adam-pw" 
   bg_color=#808080/>
   </td>
@@ -66,7 +66,7 @@
   </table>
   <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-  <img src="https://github-profile-trophy.vercel.app/?username=lisandro-kruger&theme=juicyfresh&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lisandroEkruger&theme=juicyfresh&no-bg=true" />
   </a>
   </div>
   </p>        
