@@ -1,6 +1,5 @@
 <h2>🎯 Perfil</h2>
-<h3> ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Lisandro Kruger. Técnico en Tecnologías de la Información con experiencia en desarrollo Full Stack, utilizando Java y Angular. He demostrado habilidades para resolver incidentes 
-complejos, generar informes y mejorar la calidad del software. Actualmente, estoy trabajando en un emprendimiento innovador que está en pleno desarrollo.</h3>
+<h3> ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Lisandro. Me encanta sumergirme en nuevas tecnologías y compartir lo que aprendo con los demás. Creo firmemente en el poder de la colaboración para crear soluciones innovadoras.</h3>
 
 <div align="center">
 <h3><a type="button" href="https://drive.google.com/drive/folders/1fldXyxuRYOM8Wn32w8X9BTVXc7TzPSYU?usp=sharing" target="_blank">[Ver CV]</a></h3>
