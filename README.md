@@ -1,5 +1,5 @@
 <div align="center">
-    <summary><h1 style="display: inline-block">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Lisandro. Me encanta sumergirme en nuevas        tecnologías y compartir lo que aprendo con los demás. Creo firmemente en el poder de la colaboración para crear soluciones innovadoras.</h1></summary>
+    <h1>¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Lisandro. Me encanta sumergirme en nuevas tecnologías y compartir lo que aprendo con     los demás. Creo firmemente en el poder de la colaboración para crear soluciones innovadoras.</h1>
 </div>
 
 <div align="center">
