@@ -15,7 +15,6 @@
 <div>
   <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> Estadísticas del perfil de GitHub </h2>
     <p align="center">
-    <br>
     <table align="center">
     <tr border="none">
     <td width="50%" align="center">
