@@ -1,5 +1,13 @@
 <h2>🎯 Perfil</h2>
 <h3>¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Lisandro Kruger. Me encanta sumergirme en nuevas tecnologías y compartir lo que aprendo con los demás. Creo firmemente en el poder de la colaboración para crear soluciones innovadoras.</h3>
+<h3>🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**</h3>
+<h3>🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**</h3>
+<h3>☁️ I've keen interest in cloud computing. So,I'm learning **AWS**</h3>
+<h3>📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)</h3>
+<h3>💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**</h3>
+<h3>📫 Feel free to reach me out **nishantjangid6377@gmail.com**</h3>
+<h3>🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!</h3>
+
 
 <div align="center">
 <h3><a type="button" href="https://drive.google.com/drive/folders/1fldXyxuRYOM8Wn32w8X9BTVXc7TzPSYU?usp=sharing" target="_blank">[Ver CV]</a></h3>
