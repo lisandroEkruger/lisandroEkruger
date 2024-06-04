@@ -6,7 +6,7 @@
 <h3>📝 Escribo regularmente artículos sobre lo que voy aprendiendo en LinkedIn y Twitter (X)</h3>
 <h3>💬 Pregúntame sobre Spring Boot, Angular, Docker, GiT</h3>
 <h3>📫 No dudes en ponerte en contacto conmigo lisandro.kruger@outlook.es</h3>
-<h3>🏠 No dudes en enviarme un 👋 mensaje en LinkedIn – [lisandrokruger](https://www.linkedin.com/in/lisandrokruger) mi nombre de usuario!</h3>
+<h3>🏠 No dudes en enviarme un 👋 mensaje en LinkedIn – <a type="button" href="https://www.linkedin.com/in/lisandrokruger/" target="_blank">lisandrokruger</a> es mi nombre de usuario!</h3>
 
 <div align="center">
 <h3><a type="button" href="https://drive.google.com/drive/folders/1fldXyxuRYOM8Wn32w8X9BTVXc7TzPSYU?usp=sharing" target="_blank">[Ver CV]</a></h3>
