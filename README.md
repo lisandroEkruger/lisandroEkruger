@@ -1,5 +1,10 @@
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Lisandro Kruger. Me encanta sumergirme en         nuevas tecnologías y compartir lo que aprendo con los demás. Creo firmemente en el poder de la colaboración para crear soluciones innovadoras.</h1></summary>
+  </ul>
+</div>
+
 <h2>🎯 Perfil</h2>
-<h3>¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Lisandro Kruger. Me encanta sumergirme en nuevas tecnologías y compartir lo que aprendo con los demás. Creo firmemente en el poder de la colaboración para crear soluciones innovadoras.</h3>
 <h3>🔭 Actualmente estoy trabajando en Cuidarte Digital un emprendimiento innovador.</h3>
 <h3>🌱 Actualmente estoy aprendiendo sobre Arquitecturas Limpias, Patrones de Diseño, Spring Boot, JUnit y Mockito, Angular</h3>
 <h3>☁️ Tengo un gran interés en UX/UI y DevOps</h3>
