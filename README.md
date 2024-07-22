@@ -19,7 +19,7 @@
 
 <h2>🎬 Deploys</h2>
 <div>
-<h3><a type="button" href="https://drive.google.com/file/d/16mcqBc9nQ6vSySg9vuYQCgFeC4NFu4xj/view?usp=sharing" target="_blank">[Proyecto de API Rest con Arquitectura Hexagonal]</a></h3>
+<h3><a type="button" href="https://drive.google.com/file/d/16mcqBc9nQ6vSySg9vuYQCgFeC4NFu4xj/view?usp=sharing" target="_blank">[API Rest con Arquitectura Hexagonal]</a></h3>
 </div>
 
 <div>
