@@ -7,7 +7,7 @@
 <h2>🎯 Perfil</h2>
 <h3>🔭 Actualmente estoy trabajando en Cuidarte Digital un emprendimiento innovador.</h3>
 <h3>🌱 Actualmente estoy aprendiendo sobre Arquitecturas Limpias, Patrones de Diseño, Spring Boot, JUnit y Mockito, Angular</h3>
-<h3>☁️ Tengo un gran interés en UX/UI y DevOps</h3>
+<h3>☁️ Tengo un gran interés en IA, Blockchain y Robotica</h3>
 <h3>📝 Escribo regularmente artículos sobre lo que voy aprendiendo en LinkedIn y Twitter (X)</h3>
 <h3>💬 Pregúntame sobre Spring Boot, Angular, Docker, GiT</h3>
 <h3>📫 No dudes en ponerte en contacto conmigo lisandro.kruger@outlook.es</h3>
