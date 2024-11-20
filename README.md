@@ -57,13 +57,3 @@
     </a>
   </p>
 </div>
-
-<div>
-  <h2>🤝 Conéctate conmigo </h2>
-  <p align="center">
-      <a href="https://www.linkedin.com/in/lisandrokruger/" target="blank"><img align="center" src="https://img.icons8.com/?size=500&id=447&format=png&color=ffffff" alt="linkedin"             height="50" width="50" /></a>
-      <a href="https://twitter.com/lisandro_kruger" target="blank"><img align="center" src="https://img.icons8.com/?size=500&id=6Fsj3rv2DCmG&format=png&color=ffffff" alt="twitter"             height="50" width="50" /></a> 
-      <a href="https://discordapp.com/users/lisandrokruger" target="blank"><img align="center" src="https://img.icons8.com/?size=500&id=25627&format=png&color=ffffff" alt="discord"            height="50" width="50" /></a>
-      <a href="https://www.instagram.com/lisandro.kruger/" target="blank"><img align="center" src="https://img.icons8.com/?size=500&id=32292&format=png&color=ffffff" alt="instagram"           height="50" width="50" /></a>
-  </p>
-</div>
