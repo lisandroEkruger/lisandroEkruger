@@ -7,7 +7,7 @@
 <h2>🎯 Perfil</h2>
 <h3>🔭 Actualmente estoy trabajando en Accusys Technology como Analista de Integración.</h3>
 <h3>🌱 Actualmente estoy aprendiendo sobre DevOps, Arquitecturas Limpias y Patrones de Diseño</h3>
-<h3>☁️ Tengo un gran interés en Gestión de Projectos, Blockchain y IA</h3>
+<h3>☁️ Tengo un gran interés en DevOps, Gestión de Projectos y IA</h3>
 <h3>📝 En mi tiempo libre estoy desarrollando Agro Track una aplicación enfocada en el rubro Ganadero</h3>
 <h3>💬 Pregúntame sobre Backend, Testing, DevOps y Gestión de Projectos</h3>
 <h3>📫 No dudes en ponerte en contacto conmigo lisandro.kruger@outlook.es</h3>
