@@ -48,12 +48,12 @@
   <h2>🖥️ Habilidades </h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,hibernate,spring,kafka,docker,github,gitlab,mysql,postgres,postman,idea,eclipse" />
+      <img src="https://skillicons.dev/icons?i=java,hibernate,spring,kotlin,ktor,kafka,docker,jenkins,github,gitlab,mysql,postgres,postman,idea,eclipse" />
     </a>
   </p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,angular,jquery,vite,bootstrap,materialui,tailwind,mongodb,vscode" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,bun,angular,jquery,bootstrap,tailwind,mongodb,vscode" />
     </a>
   </p>
 </div>
