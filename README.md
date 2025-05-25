@@ -7,22 +7,21 @@
 
 ---
 
-### 🎯 Sobre mí
+<h1>🎯 Sobre mí</h1>
 
-Soy un desarrollador backend orientado a la creación de soluciones sólidas, mantenibles y bien testeadas. Me apasiona transformar ideas complejas en arquitecturas limpias que escalan con eficiencia y valor real.  
-Actualmente, me desempeño como **Analista de Integración en Accusys Technology**, donde diseño e implemento integraciones seguras en el sector financiero.
-
----
-
-### 🌱 Aprendiendo actualmente
-
-- Arquitectura hexagonal & DDD  
-- Observabilidad con Grafana + Prometheus  
-- Kubernetes y despliegues avanzados  
+<h2>Soy un desarrollador backend orientado a la creación de soluciones sólidas, mantenibles y bien testeadas. Me apasiona transformar ideas complejas en arquitecturas limpias que escalan con eficiencia y valor real. Actualmente, me desempeño como **Analista de Integración en Accusys Technology**, donde diseño e implemento integraciones seguras en el sector financiero.</h2>
 
 ---
 
-### 💼 Habilidades
+<h1>🌱 Aprendiendo actualmente</h1>
+
+<h2>- Arquitectura hexagonal & DDD </h2> 
+<h2>- Observabilidad con Grafana + Prometheus  </h2>
+<h2>- Kubernetes y despliegues avanzados </h2> 
+
+---
+
+<h1>💼 Habilidades</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,hibernate,spring,kotlin,ktor,kafka,docker,jenkins,github,gitlab,mysql,postgres,postman,idea,eclipse" />
@@ -33,15 +32,15 @@ Actualmente, me desempeño como **Analista de Integración en Accusys Technology
 
 ---
 
-### 📫 Contacto
+<h1>📫 Contacto</h1>
 
-- 📧 lisandro.kruger@outlook.es  
-- 💼 [LinkedIn](https://www.linkedin.com/in/lisandrokruger/)  
-- 📄 [Ver CV](https://self.so/lisandrokruger)
+<h2>- 📧 lisandro.kruger@outlook.es </h2> 
+<h2>- 💼 [LinkedIn](https://www.linkedin.com/in/lisandrokruger/) </h2> 
+<h2>- 📄 [Ver CV](https://self.so/lisandrokruger)</h2>
 
 ---
 
-### 📊 Estadísticas de GitHub
+<h1>📊 Estadísticas de GitHub</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lisandroEkruger&show_icons=true&theme=tokyonight&bg_color=0d1117&text_color=ffffff" width="48%">
@@ -57,7 +56,7 @@ Actualmente, me desempeño como **Analista de Integración en Accusys Technology
 
 ---
 
-### ✨ Frase que me acompaña
+<p>✨ Frase que me acompaña</p>
 
 > *“El código no se trata solo de resolver problemas, sino de construir soluciones que duren.”*
 
