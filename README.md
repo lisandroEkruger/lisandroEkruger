@@ -9,15 +9,15 @@
 
 <h1>🎯 Sobre mí</h1>
 
-<h2>Soy un desarrollador backend orientado a la creación de soluciones sólidas, mantenibles y bien testeadas. Me apasiona transformar ideas complejas en arquitecturas limpias que escalan con eficiencia y valor real. Actualmente, me desempeño como **Analista de Integración en Accusys Technology**, donde diseño e implemento integraciones seguras en el sector financiero.</h2>
+<p>Soy un desarrollador backend orientado a la creación de soluciones sólidas, mantenibles y bien testeadas. Me apasiona transformar ideas complejas en arquitecturas limpias que escalan con eficiencia y valor real. Actualmente, me desempeño como **Analista de Integración en Accusys Technology**, donde diseño e implemento integraciones seguras en el sector financiero.</p>
 
 ---
 
 <h1>🌱 Aprendiendo actualmente</h1>
 
-<h2>- Arquitectura hexagonal & DDD </h2> 
-<h2>- Observabilidad con Grafana + Prometheus  </h2>
-<h2>- Kubernetes y despliegues avanzados </h2> 
+<p>- Arquitectura hexagonal & DDD</p> 
+<p>- Observabilidad con Grafana + Prometheus  </p>
+<p>- Kubernetes y despliegues avanzados </p> 
 
 ---
 
@@ -34,9 +34,9 @@
 
 <h1>📫 Contacto</h1>
 
-<h2>- 📧 lisandro.kruger@outlook.es </h2> 
-<h2>- 💼 [LinkedIn](https://www.linkedin.com/in/lisandrokruger/) </h2> 
-<h2>- 📄 [Ver CV](https://self.so/lisandrokruger)</h2>
+<p>- 📧 lisandro.kruger@outlook.es </p> 
+<p>- 💼 [LinkedIn](https://www.linkedin.com/in/lisandrokruger/) </p> 
+<p>- 📄 [Ver CV](https://self.so/lisandrokruger)</p>
 
 ---
 
