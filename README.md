@@ -5,13 +5,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif">
 </p>
 
----
-
 <h1>🎯 Sobre mí</h1>
 
 <p>Soy un desarrollador backend orientado a la creación de soluciones sólidas, mantenibles y bien testeadas. Me apasiona transformar ideas complejas en arquitecturas limpias que escalan con eficiencia y valor real. Actualmente, me desempeño como **Analista de Integración en Accusys Technology**, donde diseño e implemento integraciones seguras en el sector financiero.</p>
 
----
 
 <h1>🌱 Aprendiendo actualmente</h1>
 
@@ -19,7 +16,6 @@
 <p>- Observabilidad con Grafana + Prometheus  </p>
 <p>- Kubernetes y despliegues avanzados </p> 
 
----
 
 <h1>💼 Habilidades</h1>
 
@@ -30,7 +26,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,bun,angular,jquery,bootstrap,tailwind,mongodb,vscode" />
 </p>
 
----
 
 <h1>📫 Contacto</h1>
 
@@ -38,7 +33,6 @@
 <p>- 💼 [LinkedIn](https://www.linkedin.com/in/lisandrokruger/) </p> 
 <p>- 📄 [Ver CV](https://self.so/lisandrokruger)</p>
 
----
 
 <h1>📊 Estadísticas de GitHub</h1>
 
