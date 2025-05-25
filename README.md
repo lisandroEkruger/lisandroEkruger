@@ -37,7 +37,7 @@ Actualmente, me desempeño como **Analista de Integración en Accusys Technology
 
 - 📧 lisandro.kruger@outlook.es  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lisandrokruger/)  
-- 📄 [Ver CV](https://drive.google.com/drive/folders/1fldXyxuRYOM8Wn32w8X9BTVXc7TzPSYU?usp=sharing)
+- 📄 [Ver CV](https://self.so/lisandrokruger)
 
 ---
 
