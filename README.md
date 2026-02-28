@@ -243,7 +243,7 @@ idiomas    : Español (nativo) · Inglés (básico) · Portugués (entorno labor
 &nbsp;
 
 <a href="https://github.com/lisandro-kruger" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-lisandro--kruger-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=58a6ff"/>
+  <img src="https://img.shields.io/badge/GitHub-lisandroEkruger-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=58a6ff"/>
 </a>
 
 </div>
